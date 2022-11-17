@@ -1,0 +1,78 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2230,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "KQdLcP0Eh2AC",
+      "etag": "f+b0pKD22iE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KQdLcP0Eh2AC",
+      "volumeInfo": {
+        "title": "Aerospace Science",
+        "subtitle": "The Exploration of Space",
+        "authors": [
+          "Naomi L. Mitchell",
+          "Patricia Q. Roberson"
+        ],
+        "publishedDate": "1994",
+        "description": "[This book] examines our Earth, the Moon and the planets, the latest advances in space technology, and continuing challenges of space and manned spaceflight. Unit 1 ... discusses the elements beyond the Earth's atmosphere, surviving and living in space, and physiological results of manned spaceflights. [Unit 2] discusses the space programs of America, the creation of the National Aeronautics and Space Administration (NASA), working and scientific satellites, the space programs of the former Soviet Union, and the space programs of Europe, Canada, China, Australia, and Japan. Unit 3 ... discusses issues critical to travel in the upper atmosphere such as orbits and trajectories, unmanned satellites, space probes, guidance and control systems, and commercial use of the space program. Unit 4 ... covers major milestones in the endeavor to land on the Moon, and to safely orbit humans and crafts in space for prolonged and temporary periods. It also covers the development of space stations, the Space Shuttle and its future, and international laws for the use of and travel in space. -Pref.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UIUC:30112041296564"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 360,
+        "printType": "BOOK",
+        "categories": [
+          "Aeronautics in astronomy"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.4.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KQdLcP0Eh2AC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=KQdLcP0Eh2AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=KQdLcP0Eh2AC&printsec=frontcover&dq=space&hl=&as_brr=1&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=KQdLcP0Eh2AC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=KQdLcP0Eh2AC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=KQdLcP0Eh2AC&rdid=book-KQdLcP0Eh2AC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/Aerospace_Science.epub?id=KQdLcP0Eh2AC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KQdLcP0Eh2AC&hl=&as_brr=1&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "It also covers the development of space stations, the Space Shuttle and its future, and international laws for the use of and travel in space. -Pref."
+      }
+    }
+  ]
+}

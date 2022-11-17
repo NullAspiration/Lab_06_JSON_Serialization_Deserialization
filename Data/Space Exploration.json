@@ -1,0 +1,80 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2833,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "3yDxQ5bKyloC",
+      "etag": "GaINBhNLIOI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3yDxQ5bKyloC",
+      "volumeInfo": {
+        "title": "Space Exploration",
+        "authors": [
+          "Christine Dugan"
+        ],
+        "publisher": "Teacher Created Materials",
+        "publishedDate": "2005-06-01",
+        "description": "A comprehensive look at the history, people, technology, and future of space exploration. This book is at the reading level of 3.6 with a word count of 1133.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0743989597"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780743989596"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 32,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.5.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3yDxQ5bKyloC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3yDxQ5bKyloC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=3yDxQ5bKyloC&printsec=frontcover&dq=space&hl=&as_brr=1&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=3yDxQ5bKyloC&dq=space&hl=&as_brr=1&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Space_Exploration.html?hl=&id=3yDxQ5bKyloC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Space_Exploration-sample-pdf.acsm?id=3yDxQ5bKyloC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3yDxQ5bKyloC&hl=&as_brr=1&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A comprehensive look at the history, people, technology, and future of space exploration. This book is at the reading level of 3.6 with a word count of 1133."
+      }
+    }
+  ]
+}

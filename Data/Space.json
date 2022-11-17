@@ -1,0 +1,79 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1633,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "VFJTA8P-ILQC",
+      "etag": "UpZCxWplFzU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VFJTA8P-ILQC",
+      "volumeInfo": {
+        "title": "Space",
+        "authors": [
+          "Jean de Climont"
+        ],
+        "publisher": "Editions d Assailly",
+        "description": "This essay is a system of the world based upon the Descartes’ model. But this model has been greatly amended by adding an angular momentum to the corpuscles of aether. This allows for retrieving the Newton laws of gravitation and the transverse properties of light. This aether is both the middle of light and the cause of gravitation. This aether is complying with both the Hamilton’s principle and the energy equipartition principle.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9782902425020"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "2902425023"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 113,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.5.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=VFJTA8P-ILQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=VFJTA8P-ILQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=VFJTA8P-ILQC&printsec=frontcover&dq=space&hl=&as_brr=1&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=VFJTA8P-ILQC&dq=space&hl=&as_brr=1&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Space.html?hl=&id=VFJTA8P-ILQC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Space-sample-pdf.acsm?id=VFJTA8P-ILQC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VFJTA8P-ILQC&hl=&as_brr=1&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This essay is a system of the world based upon the Descartes’ model."
+      }
+    }
+  ]
+}
