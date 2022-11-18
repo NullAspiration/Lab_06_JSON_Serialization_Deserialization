@@ -8,32 +8,17 @@ namespace Lab_06_JSON_Serialization_Deserialization.Models
 {
     public class Book
     {
-        public string Id { get; set; }
-        public string Selflink { get; set; }
-        public string Title { get; set; }
-        public string Authors { get; set; }
-        public string Description { get; set; }
+        public Items[] Items { get; set; }
 
-        public Book(string id, string selfLink, string title, string authors, string description)
+        public Book(Items[] items   )
         {
-     
-            Id = id;
-            Selflink = selfLink;
-            Title = title;
-            Authors = authors;
-            Description = description;
+            Items = items;
         }
 
         public override string ToString()
         {
-            string itemString = "";
-            itemString += $"ID: {Id}\n";
-            itemString += $"SelfLink: {Selflink}\n";
-            itemString += $"Title: {Title}\n";
-            itemString += $"Authors: {Authors}\n";
-            itemString += $"Description: {Description}\n";
-
-            return itemString;
+            string bookString = "";
+            return bookString;
         }
     }
 }
