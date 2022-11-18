@@ -1,7 +1,6 @@
-﻿using Lab_06_JSON_Serialization_Deserialization.Models;
-using System.Net;
+﻿using ConsoleTables;
+using Lab_06_JSON_Serialization_Deserialization.Models;
 using System.Text.Json;
-using ConsoleTables;
 
 namespace Lab_06_JSON_Serialization_Deserialization
 {
@@ -26,8 +25,8 @@ namespace Lab_06_JSON_Serialization_Deserialization
                 {
                     jsonString = sr.ReadToEnd();
                 }
-                //just showing it reads the data folder and all contents
-                Console.WriteLine(jsonString);
+                //just showing it reads the data folder and all contents uncomment to see serialized data
+                //Console.WriteLine(jsonString);
 
                 var books = JsonSerializer.Deserialize<Book>(jsonString, options);
 

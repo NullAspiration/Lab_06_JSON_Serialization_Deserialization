@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Lab_06_JSON_Serialization_Deserialization.Models
+﻿namespace Lab_06_JSON_Serialization_Deserialization.Models
 {
     public class VolumeInfo
     {
@@ -14,7 +8,7 @@ namespace Lab_06_JSON_Serialization_Deserialization.Models
 
 
         public VolumeInfo(string title, string[] authors, string description)
-        { 
+        {
             Title = title;
             Authors = authors;
             Description = description;
