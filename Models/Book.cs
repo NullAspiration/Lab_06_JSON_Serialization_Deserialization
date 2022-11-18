@@ -24,9 +24,9 @@ namespace Lab_06_JSON_Serialization_Deserialization.Models
             bookString += $"\tAuthors: {Items[0].VolumeInfo.Authors[0]}\n";
             if (Items[0].VolumeInfo.Description != null)
             {
-                bookString += $"\n\tDescription: {Items[0].VolumeInfo.Description}\n";
+                bookString += $"\n\tDescription: {Items[0].VolumeInfo.Description}\n\n";
                 bookString += $"\tID: {Items[0].Id}]\n";
-                bookString += $"\n\tSelfLink: {Items[0].SelfLink}\n";
+                bookString += $"\tSelfLink: {Items[0].SelfLink}\n";
             }
             else
             {
